@@ -1,4 +1,4 @@
-# Sistema de Conta Bancária em Java
+# Sistema de Caixa Eletrônico em Java
 
 Este projeto consiste em um sistema de gerenciamento de contas bancárias escrito em Java. Ele permite aos usuários realizar operações como login, criação de contas, depósito, saque, transferência de fundos e consulta de saldo.
 
